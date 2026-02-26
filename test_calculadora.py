@@ -6,4 +6,4 @@ def test_add():
 
 def test_sub():
 	calc = Calculadora()
-	assert calc.sub(5, 3) == 2
+	assert calc.sub(5, 3) == 3 # Prueba incorrecta
